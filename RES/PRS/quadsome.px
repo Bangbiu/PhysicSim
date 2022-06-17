@@ -1,0 +1,5 @@
+add tag=e1,loc=(600,200),vel=(30,-30),img=bh
+add tag=e2,loc=(800,200),vel=(30,30),img=bh
+add tag=e3,loc=(600,400),vel=(-30,-30),img=bh
+add tag=e4,loc=(800,400),vel=(-30,30),img=bh
+all.set spt=t

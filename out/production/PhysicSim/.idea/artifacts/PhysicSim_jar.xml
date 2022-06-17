@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PhysicSim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhysicSim_jar</output-path>
+    <root id="archive" name="PhysicSim.jar">
+      <element id="module-output" name="PhysicSim" />
+    </root>
+  </artifact>
+</component>

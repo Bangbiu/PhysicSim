@@ -1,0 +1,3 @@
+add tag=e1,loc=(0%,50%)
+add tag=e2,loc=(90%,50%)
+all.set spt=t,mtg=t

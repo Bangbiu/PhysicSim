@@ -1,0 +1,2 @@
+add tag=e2,loc=(30%,50%),siz=(50,50),spt=t,vel=(0,30),img=dm
+add tag=e1,loc=(50%,50%),siz=(200,200),mas=100,img=glo

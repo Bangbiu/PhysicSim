@@ -1,0 +1,4 @@
+add tag=e1,loc=(40%,50%),vel=(0,15),img=bh
+add tag=e2,loc=(60%,50%),vel=(0,-15),img=bh
+stg.set bnd=t
+all.set spt=t,mtg=t

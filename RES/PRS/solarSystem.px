@@ -1,0 +1,5 @@
+add tag=e1,loc=(40%,30%),siz=(300,300),mtg=t,mas=200,img=sun
+add tag=e2,loc=(80%,40%),vel=(-40,80),siz=(50,50),spt=t,gvig=t
+add tag=e3,loc=(30%,30%),vel=(40,-100),siz=(100,100),spt=t,gvig=t,img=jup
+add tag=e4,loc=(40%,10%),vel=(-100,50),siz=(40,40),spt=t,gvig=t,img=ura
+preset traceAll.px

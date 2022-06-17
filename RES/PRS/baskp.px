@@ -1,0 +1,5 @@
+add tag=hp,loc=(250,300),img=hoop,siz=(155,155),undrg=t
+adde tag=ball,loc=(50%,90%),img=bask,rcvg=t,rcvf=t,cmd=ct.set img+=1,tgt=hp
+add tag=bd,loc=(100,0),img=boar,siz=(450,450),undrg=t
+add tag=ct,loc=(50%,5%),img=1
+stg.set bak=t,bnd=t,envg=(0,5)

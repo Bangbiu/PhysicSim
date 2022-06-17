@@ -1,0 +1,4 @@
+add tag=star,loc=(600,400),siz=(150,150),mas=300,img=bh
+add tag=planet,loc=(400,450),vel=(0,-40),mas=150,spt=t
+add tag=sat,loc=(350,475),siz=(50,50),vel=(0,20),mas=10,img=bm,gvig=t,spt=t
+all.set mtg=t

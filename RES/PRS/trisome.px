@@ -1,0 +1,5 @@
+add tag=e1,loc=(600,200),vel=(30,0),img=bh
+add tag=e2,loc=(500,373.205),vel=(-15,-25.98),img=bh
+add tag=e3,loc=(700,373.205),vel=(-15,25.98),img=bh
+stg.set bnd=t
+all.set spt=t
